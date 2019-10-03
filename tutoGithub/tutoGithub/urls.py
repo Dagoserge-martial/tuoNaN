@@ -19,3 +19,5 @@ from django.urls import path
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
+
+#Je ne voi pas d'application dans le projet
